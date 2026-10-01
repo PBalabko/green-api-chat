@@ -2,6 +2,10 @@
 
 Тестовое задание на должность Frontend-разработчика React.
 
+## 🚀 Посмотреть в действии
+
+[https://PBalabko.github.io/green-api-chat/](https://PBalabko.github.io/green-api-chat/)
+
 ## 📋 Описание
 
 SPA-приложение для отправки и получения текстовых сообщений через GREEN-API.
